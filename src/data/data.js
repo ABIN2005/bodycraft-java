@@ -25,7 +25,7 @@ export const features = [
 export const testimonial = [
   {
     id: 1,
-    name: "ADITYA RAJ",
+    name: "Bhart Kapoor",
     description:
       "I'm a UI/UX designer focused on creating intuitive, engaging interfaces that ensure smooth, user-friendly digital experiences.",
     role: "UI/UX Designer",

@@ -4,8 +4,9 @@
 ## DEVLOPERS
 
 - Abinash Giri
-- Aditya Raj
+- Bhart kapoor
 - Divyank Sharma
+- lakshya Nigam
 
 Content of Read Md file:
 
@@ -14,7 +15,7 @@ Content of Read Md file:
 - Features
 
 Demo: 
-<a href="https://body-craft.vercel.app/"> Check Out<a/>
+
 
 ##Abstract
 Utilization of Augmented Reality (AR) technology to create an engaging and interactive experience.
